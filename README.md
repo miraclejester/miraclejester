@@ -1,16 +1,36 @@
-## Hi there 👋
+# Jose Montenegro
 
-<!--
-**miraclejester/miraclejester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer — TypeScript · React · Real-time web**
 
-Here are some ideas to get you started:
+I build interactive web products at scale. For six and a half years I worked on
+[Prodigy Education](https://www.prodigygame.com/)'s learning platform: a web and mobile MMO
+used by millions of students across North America. There, I built real-time game client features in PixiJS and Typescript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before that I worked professionally in games with Unity and C#.
+
+I still make games. Most recently released one is *Akoya and the Lost Pearl* placed **7th of 80** in
+Metroidvania Month 31.
+
+**Currently:** building full-stack projects in TypeScript / Next.js / Node, as well as a WIP indie game in Unity. Open to senior-level
+engineering roles. Remote in Canada, hybrid in the GTA, or contract for US teams (EST).
+
+---
+
+### Stack
+
+**Web** TypeScript · JavaScript · React · Next.js · Node.js · HTML/CSS
+**Libraries/Frameworks** PixiJS · Phaser · Spine · Canvas/WebGL
+**Games** Unity · C# · Godot 4 · GDScript
+**Also** Python · Git · performance profiling · A/B testing
+
+### Recent work
+
+| | |
+|---|---|
+| [**so-club**](https://github.com/miraclejester/so-club) | Media club management app - TypeScript |
+| [**Akoya and the Lost Pearl**](https://miraclejester.itch.io) | Godot 4 Metroidvania - 7th/80, MVM 31 |
+| [**VIZARD**](https://miraclejester.itch.io) | Hacking-mystery puzzle game - in development |
+
+### Elsewhere
+
+[Portfolio](https://miraclejester.github.io) · [LinkedIn](https://www.linkedin.com/in/josmontenegro/) · [itch.io](https://miraclejester.itch.io) · josmontenegro2012@gmail.com
