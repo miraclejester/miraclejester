@@ -18,10 +18,10 @@ engineering roles. Remote in Canada, hybrid in the GTA, or contract for US teams
 
 ### Stack
 
-**Web** TypeScript · JavaScript · React · Next.js · Node.js · HTML/CSS
-**Libraries/Frameworks** PixiJS · Phaser · Spine · Canvas/WebGL
-**Games** Unity · C# · Godot 4 · GDScript
-**Also** Python · Git · performance profiling · A/B testing
+- **Web** TypeScript · JavaScript · React · Next.js · Node.js · HTML/CSS
+- **Libraries/Frameworks** PixiJS · Phaser · Spine · Canvas/WebGL
+- **Games** Unity · C# · Godot 4 · GDScript
+- **Also** Python · Git · performance profiling · A/B testing
 
 ### Recent work
 
