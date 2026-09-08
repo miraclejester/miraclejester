@@ -28,7 +28,7 @@ engineering roles. Remote in Canada, hybrid in the GTA, or contract for US teams
 | | |
 |---|---|
 | [**so-club**](https://github.com/miraclejester/so-club) | Media club management app - TypeScript |
-| [**Chip-8 Emulator**](https://github.com/miraclejester/chip-8-emulator) | Accurate Chip-8 emulator - C++ |
+| [**Chip-8 Emulator**](https://github.com/miraclejester/chip8-emulator) | Accurate Chip-8 emulator - C++ |
 | [**VIZARD**](https://miraclejester.itch.io) | Hacking-mystery puzzle game - in development |
 
 ### Elsewhere
